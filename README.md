@@ -11,3 +11,4 @@ Run program with command ./run.sh
 Edit: Two "main" files exist: 
   - One takes input from "run.sh" file and outputs to command line.
   - The other uses a GUI to take input and outputs to the same window.
+The second option is commented out underneath the first option. 
